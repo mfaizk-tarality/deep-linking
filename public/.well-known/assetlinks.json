@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.wallet.noworry",
       "sha256_cert_fingerprints": [
-        "A3:D9:67:AB:A5:F3:1E:26:84:C8:B5:E8:E2:43:D1:83:64:D1:43:64:2B:BF:F7:E2:C6:04:47:49:DC:F5:D1:63"
+        "A3:D9:67:AB:A5:F3:1E:26:84:C8:B5:E8:E2:43:D1:83:64:D1:43:64:2B:BF:F7:E2:C6:04:47:49:DC:F5:D1:63",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
       ]
     }
   }
